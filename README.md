@@ -25,8 +25,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 5%/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = 5%/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width = 5%/>
-    <h3>Mobile Development</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = 5%/>
     <h3>General Knowledges</h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = 5%/>   
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width = 5%/>
