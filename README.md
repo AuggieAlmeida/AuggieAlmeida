@@ -197,19 +197,7 @@ mindmap
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8)
 
 </div>
-<div align="center">
 
-### APIs & Integrations
-
-![REST API](https://img.shields.io/badge/REST_API-6366f1?style=for-the-badge&logo=api&logoColor=white&labelColor=6366f1)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
-![WebSockets](https://img.shields.io/badge/WebSockets-a855f7?style=for-the-badge&logo=websocket&logoColor=white&labelColor=a855f7)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white&labelColor=4285F4)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=85EA2D)
-
-</div>
-
-<div align="center">
 </td>
 <td width="50%" valign="top">
 
@@ -231,7 +219,15 @@ mindmap
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=07405E)
+
+</div>
+
+### Microsoft Office & Automation
+<div align="center">
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=F2C811)
+![VBA](https://img.shields.io/badge/VBA-512BD4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=512BD4)
 
 </div>
 
@@ -249,7 +245,19 @@ mindmap
 </tr>
 </table>
 
+<div align="center">
 
+### APIs & Integrations
+
+![REST API](https://img.shields.io/badge/REST_API-6366f1?style=for-the-badge&logo=api&logoColor=white&labelColor=6366f1)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
+![WebSockets](https://img.shields.io/badge/WebSockets-a855f7?style=for-the-badge&logo=websocket&logoColor=white&labelColor=a855f7)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white&labelColor=4285F4)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=85EA2D)
+
+</div>
+
+<div align="center">
 
 ### Development Principles & Architectures
 
@@ -275,9 +283,14 @@ mindmap
 <sub>Ports and Adapters</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/000000/microservices.png"/><br/>
-<b>Microservices</b><br/>
-<sub>Distributed Systems</sub>
+<img src="https://img.icons8.com/color/48/000000/diamond.png"/><br/>
+<b>SOLID</b><br/>
+<sub>Design Principles</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/code-file.png"/><br/>
+<b>Clean Code</b><br/>
+<sub>Best Practices</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/48/000000/test-tube.png"/><br/>
@@ -288,7 +301,38 @@ mindmap
 </table>
 
 <div align="center">
-    
+
+## Featured Projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/64/000000/search.png"/><br/>
+<h3>BuscaJogos+ Platform</h3>
+<b>Game Price Comparison System</b><br/>
+<i>Web platform for searching and comparing digital game prices across multiple stores</i><br/>
+<br/>
+<b>Technologies:</b> Golang, C#, Blazor, MySQL, Docker, Swagger<br/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+</td>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/64/000000/customer-relationship-management.png"/><br/>
+<h3>Projeto Mitra</h3>
+<b>CRM for Small Businesses</b><br/>
+<i>Desktop CRM system for blind and curtain companies with order and quote management</i><br/>
+<br/>
+<b>Technologies:</b> Python, tkinter, SQLite3, pytest, pyinstaller<br/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 ## Academic Background
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
