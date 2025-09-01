@@ -230,6 +230,8 @@ mindmap
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=07405E)
 
+</div>
+
 ### DevOps & Tools
 <div align="center">
 
@@ -248,7 +250,7 @@ mindmap
 
 <div align="center">
 
-### 📊 Microsoft Office Suite
+### Microsoft Office Suite
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&labelColor=2B579A)
