@@ -69,7 +69,9 @@ class FullstackDeveloper {
 <td width="50%">
 
 <div align="center">
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyanpjcGRzcTA5Z3NsaDVmdTcza2NvMHVqM21ueG56dnN3a3BlcHhwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)" width="300" alt="Coding GIF">
+    <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+    
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNxM2s3bm51c2F1enhsYmcyODh6OXVtdm40Zm9iNzQxMzJmOWo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding GIF">
 </div>
 
 </td>
@@ -231,17 +233,6 @@ mindmap
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=07405E)
 
-</div>
-
-### Microsoft Office & Automation
-<div align="center">
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=F2C811)
-![VBA](https://img.shields.io/badge/VBA-512BD4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=512BD4)
-
-</div>
-
 ### DevOps & Tools
 <div align="center">
 
@@ -255,6 +246,18 @@ mindmap
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+    
+### Microsoft Office & Automation
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=F2C811)
+![VBA](https://img.shields.io/badge/VBA-512BD4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=512BD4)
+
+</div>
 
 <div align="center">
 
