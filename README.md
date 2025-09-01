@@ -43,7 +43,7 @@ class FullstackDeveloper {
         this.languages = [
             "Portuguese (Native)",
             "English (Advanced - C1)",
-            "French (Intermediate - A2)",
+            "French (Intermediate - B1)",
             "Spanish (Basic - A1)"
         ];
         this.specialties = [
@@ -197,7 +197,19 @@ mindmap
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8)
 
 </div>
+<div align="center">
 
+### APIs & Integrations
+
+![REST API](https://img.shields.io/badge/REST_API-6366f1?style=for-the-badge&logo=api&logoColor=white&labelColor=6366f1)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
+![WebSockets](https://img.shields.io/badge/WebSockets-a855f7?style=for-the-badge&logo=websocket&logoColor=white&labelColor=a855f7)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white&labelColor=4285F4)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=85EA2D)
+
+</div>
+
+<div align="center">
 </td>
 <td width="50%" valign="top">
 
@@ -237,19 +249,7 @@ mindmap
 </tr>
 </table>
 
-<div align="center">
 
-### APIs & Integrations
-
-![REST API](https://img.shields.io/badge/REST_API-6366f1?style=for-the-badge&logo=api&logoColor=white&labelColor=6366f1)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
-![WebSockets](https://img.shields.io/badge/WebSockets-a855f7?style=for-the-badge&logo=websocket&logoColor=white&labelColor=a855f7)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white&labelColor=4285F4)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=85EA2D)
-
-</div>
-
-<div align="center">
 
 ### Development Principles & Architectures
 
@@ -288,38 +288,7 @@ mindmap
 </table>
 
 <div align="center">
-
-## Featured Projects
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/64/000000/search.png"/><br/>
-<h3>BuscaJogos+ Platform</h3>
-<b>Game Price Comparison System</b><br/>
-<i>Web platform for searching and comparing digital game prices across multiple stores</i><br/>
-<br/>
-<b>Technologies:</b> Golang, C#, Blazor, MySQL, Docker, Swagger<br/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-</td>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/64/000000/customer-relationship-management.png"/><br/>
-<h3>Projeto Mitra</h3>
-<b>CRM for Small Businesses</b><br/>
-<i>Desktop CRM system for blind and curtain companies with order and quote management</i><br/>
-<br/>
-<b>Technologies:</b> Python, tkinter, SQLite3, pytest, pyinstaller<br/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
+    
 ## Academic Background
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
