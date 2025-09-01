@@ -69,7 +69,7 @@ class FullstackDeveloper {
 <td width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyanpjcGRzcTA5Z3NsaDVmdTcza2NvMHVqM21ueG56dnN3a3BlcHhwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)" width="300" alt="Coding GIF">
 </div>
 
 </td>
@@ -198,6 +198,17 @@ mindmap
 
 </div>
 
+### APIs & Integrations
+
+<div align="center">
+    
+![REST API](https://img.shields.io/badge/REST_API-6366f1?style=for-the-badge&logo=api&logoColor=white&labelColor=6366f1)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
+![WebSockets](https://img.shields.io/badge/WebSockets-a855f7?style=for-the-badge&logo=websocket&logoColor=white&labelColor=a855f7)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white&labelColor=4285F4)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=85EA2D)
+
+</div>
 </td>
 <td width="50%" valign="top">
 
@@ -244,18 +255,6 @@ mindmap
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### APIs & Integrations
-
-![REST API](https://img.shields.io/badge/REST_API-6366f1?style=for-the-badge&logo=api&logoColor=white&labelColor=6366f1)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
-![WebSockets](https://img.shields.io/badge/WebSockets-a855f7?style=for-the-badge&logo=websocket&logoColor=white&labelColor=a855f7)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white&labelColor=4285F4)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=85EA2D)
-
-</div>
 
 <div align="center">
 
