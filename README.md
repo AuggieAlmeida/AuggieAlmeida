@@ -268,32 +268,32 @@ mindmap
 
 <table align="center">
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/48/000000/code.png"/><br/>
 <b>MVC</b><br/>
 <sub>Model-View-Controller</sub>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/000000/settings.png"/><br/>
-<b>Clean Architecture</b><br/>
-<sub>Separation of Concerns</sub>
-</td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/48/000000/hexagon.png"/><br/>
 <b>Hexagonal</b><br/>
 <sub>Ports and Adapters</sub>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/48/000000/diamond.png"/><br/>
 <b>SOLID</b><br/>
 <sub>Design Principles</sub>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/48/000000/code-file.png"/><br/>
 <b>Clean Code</b><br/>
 <sub>Best Practices</sub>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
+<img src="https://img.icons8.com/color/48/000000/settings.png"/><br/>
+<b>Clean Architecture</b><br/>
+<sub>Separation of Concerns</sub>
+</td>
+<td align="center" width="16%">
 <img src="https://img.icons8.com/color/48/000000/test-tube.png"/><br/>
 <b>TDD</b><br/>
 <sub>Test-Driven Development</sub>
@@ -321,39 +321,12 @@ mindmap
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </td>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/color/64/000000/customer-relationship-management.png"/><br/>
+<img src="[https://img.icons8.com/color/64/000000/customer-relationship-management.png](https://icons8.com.br/icon/CGY1oVGCaVHa/crm)"/><br/>
 <h3>Projeto Mitra</h3>
 <b>CRM for Small Businesses</b><br/>
 <i>Desktop CRM system for blind and curtain companies with order and quote management</i><br/>
 <br/>
 <b>Technologies:</b> Python, tkinter, SQLite3, pytest, pyinstaller<br/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-## Academic Background
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/64/000000/graduation-cap.png"/><br/>
-<h3>Current Education</h3>
-<b>Multiplatform Software Development</b><br/>
-<i>FATEC Mauá</i> | 2024 - In Progress<br/>
-<img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge"/>
-</td>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/64/000000/certificate.png"/><br/>
-<h3>Completed Education</h3>
-<b>Systems Analysis and Development</b><br/>
-<i>FATEC São Caetano do Sul</i> | 2020 - 2023<br/>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </td>
 </tr>
