@@ -15,7 +15,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/AuggieAlmeida)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:augustob.almeida12@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -24,8 +23,6 @@
 <div align="center">
 
 ## About Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -91,7 +88,6 @@ Experience spans across frontend and backend development, test automation, data 
 
 ### Professional Experience
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -162,9 +158,6 @@ mindmap
 ```
 
 <div align="center">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Technology Stack
 </div>
@@ -304,11 +297,12 @@ mindmap
 </tr>
 </table>
 
+
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Featured Projects
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -338,8 +332,6 @@ mindmap
 <div align="center">
 
 ## Languages
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -372,8 +364,6 @@ mindmap
 
 ## GitHub Analytics
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
 <table align="center">
@@ -382,30 +372,10 @@ mindmap
 <img src="https://github-readme-stats.vercel.app/api?username=AuggieAlmeida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=a855f7&text_color=FFFFFF" alt="GitHub Stats">
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AuggieAlmeida&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=a855f7&fire=d946ef&currStreakLabel=6366f1" alt="GitHub Streak">
+<img width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuggieAlmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF" alt="Top Languages">
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuggieAlmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF" alt="Top Languages">
-</div>
-
-<div align="center">
-
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AuggieAlmeida&bg_color=0D1117&color=6366f1&line=a855f7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-
-</div>
-
-<div align="center">
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AuggieAlmeida&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
