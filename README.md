@@ -318,7 +318,7 @@ mindmap
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </td>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/color/64/000000/customer-relationship-management.png"/><br/>
+<img src="[https://img.icons8.com/color/64/000000/customer-relationship-management.png](https://icons8.com.br/icon/7oadkG9gSV3Q/crm)"/><br/>
 <h3>Projeto Mitra</h3>
 <b>CRM for Small Businesses</b><br/>
 <i>Desktop CRM system for blind and curtain companies with order and quote management</i><br/>
