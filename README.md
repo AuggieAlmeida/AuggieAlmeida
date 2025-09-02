@@ -1,53 +1,170 @@
 <div align="center">
 
-# Welcome, I'm Augusto Almeida  
+# Welcome, I'm Augusto Almeida
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;QA+%26+Test+Engineer;Data+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Fullstack+Developer;QA+%26+Test+Engineer;Data+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
----
+<br/>
 
-### Contacts
+### Passionate about building robust solutions and ensuring software quality
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustobalmeida/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://your-portfolio-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AuggieAlmeida)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustob.almeida12@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/augustobalmeida/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=Google%20Chrome&logoColor=white&labelColor=6366f1)](https://your-portfolio-url.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/AuggieAlmeida)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:augustob.almeida12@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<br/>
 
-## About Me  
+<div align="center">
 
-**Fullstack Developer** and **QA Engineer** with expertise in building modern web applications and ensuring software quality through automated testing. Currently pursuing **Multiplatform Software Development** at FATEC Mauá, with a solid foundation in **Systems Analysis and Development**.  
+## About Me
 
-Experience across frontend and backend development, test automation, data analysis, and business intelligence. Passionate about clean code, scalable architectures, and continuous learning in emerging technologies.  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+</div>
 
-## Professional Experience  
+<table align="center">
+<tr>
+<td width="50%">
 
-**Test Engineer – Outlier (2025)**  
-- Automated testing development and execution  
-- Test planning and bug reporting  
-- Technical prompt optimization for test automation  
+```typescript
+class FullstackDeveloper {
+    constructor() {
+        this.name = "Augusto de Barros Almeida";
+        this.role = "Fullstack Developer & QA Engineer";
+        this.location = "Mauá, São Paulo, Brazil";
+        this.email = "augustob.almeida12@gmail.com";
+        this.languages = [
+            "Portuguese (Native)",
+            "English (Advanced - C1)",
+            "French (Intermediate - B1)",
+            "Spanish (Basic - A1)"
+        ];
+        this.specialties = [
+            "Software Development",
+            "Quality Assurance",
+            "Data Analysis",
+            "Test Automation"
+        ];
+        this.focus = [
+            "Clean Architecture",
+            "Test-Driven Development",
+            "Process Automation"
+        ];
+    }
+    
+    getCurrentStatus(): string {
+        return "Building quality software and automating tests";
+    }
+}
+```
 
-**Frontend Developer – Make Acelerador de Vendas (2024)**  
-- Responsive interfaces with ReactJS, WordPress, PHP  
-- Landing pages and API integrations  
-- SEO auditing and performance optimization  
+</td>
+<td width="50%">
 
-**Fullstack Developer – Freelance (2022–2024)**  
-- Full-stack information systems development  
-- RESTful API development with Java/Spring Boot  
-- Database modeling and optimization  
-- Container orchestration and end-to-end integration  
+<div align="center">
+    
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNxM2s3bm51c2F1enhsYmcyODh6OXVtdm40Zm9iNzQxMzJmOWo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding GIF">
+</div>
 
-**Previous Roles**  
-- Technical Support – Sintel Tecnologia (2021–2022)  
-- Market Intelligence Analyst – Itaú Unibanco (2020–2021)  
+</td>
+</tr>
+</table>
 
----
+<div align="center">
+
+### Professional Summary
+
+</div>
+
+**Fullstack Developer** and **QA Engineer** with expertise in building modern web applications and ensuring software quality through automated testing. Currently pursuing **Multiplatform Software Development** at FATEC Mauá, with a solid foundation in **Systems Analysis and Development**.
+
+Experience spans across frontend and backend development, test automation, data analysis, and business intelligence. Passionate about clean code, scalable architectures, and continuous learning in emerging technologies.
+
+<div align="center">
+
+### Professional Experience
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**Current Role (2025)**
+- **Test Engineer** - Outlier
+- Automated testing development and execution
+- Test planning and bug reporting
+- Technical prompt optimization for test automation
+
+**Frontend Developer (2024)**
+- **Make Acelerador de Vendas**
+- Responsive interfaces with ReactJS, WordPress, PHP
+- Landing pages and API integrations
+- SEO auditing and performance optimization
+
+</td>
+<td width="50%">
+
+**Fullstack Developer (2022-2024)**
+- **Freelance Projects**
+- Full-stack information systems development
+- RESTful API development with Java/Spring Boot
+- Database modeling and optimization
+- Container orchestration and end-to-end integration
+
+**Previous Experience**
+- **Technical Support** - Sintel Tecnologia (2021-2022)
+- **Market Intelligence Analyst** - Itaú Unibanco (2020-2021)
+
+</td>
+</tr>
+</table>
+
+## Technical Skills
+
+```mermaid
+mindmap
+  root((Skills))
+    Frontend
+      React/Next.js
+      Angular
+      HTML/CSS/JS
+      TailwindCSS
+    Backend
+      Node.js/TypeScript
+      Java Spring Boot
+      Python/Flask
+      REST/GraphQL
+    Quality Assurance
+      Jest/JUnit
+      Cypress/Selenium
+      Automated Testing
+      Test Planning
+    Data & Analytics
+      SQL/NoSQL
+      Power BI
+      Web Scraping
+      Data Visualization
+    DevOps
+      Docker
+      CI/CD
+      Git/GitHub
+      Process Automation
+```
+
+<div align="center">
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Technology Stack
 </div>
@@ -144,10 +261,56 @@ Experience across frontend and backend development, test automation, data analys
 
 </div>
 
+<div align="center">
 
----
+### Development Principles & Architectures
 
-## Featured Projects  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/color/48/000000/code.png"/><br/>
+<b>MVC</b><br/>
+<sub>Model-View-Controller</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/color/48/000000/hexagon.png"/><br/>
+<b>Hexagonal</b><br/>
+<sub>Ports and Adapters</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/color/48/000000/diamond.png"/><br/>
+<b>SOLID</b><br/>
+<sub>Design Principles</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/color/48/000000/code-file.png"/><br/>
+<b>Clean Code</b><br/>
+<sub>Best Practices</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/color/48/000000/settings.png"/><br/>
+<b>Clean Architecture</b><br/>
+<sub>Separation of Concerns</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/color/48/000000/test-tube.png"/><br/>
+<b>TDD</b><br/>
+<sub>Test-Driven Development</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## Featured Projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 <table align="center">
 <tr>
@@ -155,24 +318,30 @@ Experience across frontend and backend development, test automation, data analys
 <img src="https://img.icons8.com/color/64/000000/search.png"/><br/>
 <h3>BuscaJogos+ Platform</h3>
 <b>Game Price Comparison System</b><br/>
-<i>Web platform for searching and comparing digital game prices across multiple stores</i><br/><br/>
+<i>Web platform for searching and comparing digital game prices across multiple stores</i><br/>
+<br/>
 <b>Technologies:</b> Golang, C#, Blazor, MySQL, Docker, Swagger<br/>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </td>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/fluency/64/000000/erp-system.png"/><br/>
+<img src="https://img.icons8.com/color/64/000000/customer-relationship-management.png"/><br/>
 <h3>Projeto Mitra</h3>
 <b>CRM for Small Businesses</b><br/>
-<i>Desktop CRM system for blind and curtain companies with order and quote management</i><br/><br/>
+<i>Desktop CRM system for blind and curtain companies with order and quote management</i><br/>
+<br/>
 <b>Technologies:</b> Python, tkinter, SQLite3, pytest, pyinstaller<br/>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-## Languages  
+## Languages
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 <table align="center">
 <tr>
@@ -199,21 +368,59 @@ Experience across frontend and backend development, test automation, data analys
 </tr>
 </table>
 
----
+<div align="center">
 
-## GitHub Analytics  
+## GitHub Analytics
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=AuggieAlmeida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=a855f7&text_color=FFFFFF" alt="GitHub Stats">
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AuggieAlmeida&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=a855f7&fire=d946ef&currStreakLabel=6366f1" alt="GitHub Streak">
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AuggieAlmeida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=FFFFFF" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuggieAlmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuggieAlmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF" alt="Top Languages">
+</div>
+
+<div align="center">
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AuggieAlmeida&bg_color=0D1117&color=6366f1&line=a855f7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+
+</div>
+
+<div align="center">
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=AuggieAlmeida&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
 </div>
 
 ---
 
 <div align="center">
 
-*"Quality code is not an accident; it is the result of intelligent effort."*  
+### *"Quality code is not an accident; it is the result of intelligent effort."*
 
-<img src="https://komarev.com/ghpvc/?username=AuggieAlmeida&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Open+for+collaborations+and+new+opportunities!;Let's+build+quality+software+together!;Always+ready+for+the+next+challenge!" alt="Footer Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AuggieAlmeida&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
 </div>
