@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/augustobalmeida/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=Google%20Chrome&logoColor=white&labelColor=6366f1)](https://your-portfolio-url.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:augustob.almeida12@gmail.com)
-[![Gmail](https://img.shields.io/badge/Icloud-D14836?style=for-the-badge&logo=icloud&logoColor=white&labelColor=4084F4)](mailto:augusto.almeida2@icloud.com)
+[![Gmail](https://img.shields.io/badge/Icloud-4084F4?style=for-the-badge&logo=icloud&logoColor=white&labelColor=4084F4)](mailto:augusto.almeida2@icloud.com)
 
 
 </div>
