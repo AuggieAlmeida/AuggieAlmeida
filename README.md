@@ -35,7 +35,7 @@ class FullstackDeveloper {
     constructor() {
         this.name = "Augusto de Barros Almeida";
         this.role = "Fullstack Developer & QA Engineer";
-        this.location = "Mauá, São Paulo, Brazil";
+        this.location = "São Paulo, Brazil";
         this.email = "augustob.almeida12@gmail.com";
         this.languages = [
             "Portuguese (Native)",
