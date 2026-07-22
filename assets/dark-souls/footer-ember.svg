@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">The fire fades — the work remains</title>
+  <desc id="desc">Closing dark banner with a pulsing ember and rising sparks, reading THE FIRE FADES — THE WORK REMAINS.</desc>
+  <defs>
+    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D0D0D" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#0D0D0D" stop-opacity="0.92"/>
+      <stop offset="0.5" stop-color="#0D0D0D"/>
+      <stop offset="0.75" stop-color="#0D0D0D" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#0D0D0D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeBoth" x1="0" x2="1">
+      <stop offset="0" stop-color="#C8A832" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C8A832" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#C8A832" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="ember">
+      <stop offset="0" stop-color="#E8DCC8"/>
+      <stop offset="0.45" stop-color="#D4763A"/>
+      <stop offset="1" stop-color="#8B1A1A"/>
+    </radialGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+  </defs>
+  <rect y="10" width="1200" height="130" fill="url(#band)"/>
+  <path d="M600 30l9 13-9 13-9-13z" fill="url(#ember)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="600" cy="43" r="2.2" fill="#E8DCC8"/>
+  <g fill="#D4763A">
+    <circle cx="586" cy="46" r="1.4" opacity="0">
+      <animate attributeName="cy" values="48;16" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.35;1" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="614" cy="46" r="1.2" opacity="0">
+      <animate attributeName="cy" values="48;18" dur="6.5s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" keyTimes="0;0.35;1" dur="6.5s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="46" r="1.5" opacity="0">
+      <animate attributeName="cy" values="48;14" dur="6s" begin="3.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="6s" begin="3.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="600" y="102" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="8" fill="#C8A832" opacity="0.7" filter="url(#glow)">THE FIRE FADES — THE WORK REMAINS</text>
+  <text x="600" y="102" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="8" fill="#E8DCC8">THE FIRE FADES — THE WORK REMAINS</text>
+  <line x1="400" y1="120" x2="800" y2="120" stroke="url(#fadeBoth)" stroke-width="1"/>
+</svg>
