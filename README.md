@@ -139,8 +139,7 @@ CURRENT QUEST
 <img src="./assets/dark-souls/banner-ledger.svg" width="100%" alt="The ledger" />
 
 <p align="center">
-  <img height="165" alt="Augusto's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=AuggieAlmeida&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8A832&text_color=E8DCC8&icon_color=D4763A&ring_color=C8A832" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuggieAlmeida&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=C8A832&text_color=E8DCC8" />
+  <a href="https://github.com/AuggieAlmeida">Read the full ledger — live contributions, stats and most-used languages →</a>
 </p>
 
 <img src="./assets/dark-souls/footer-ember.svg" width="100%" alt="The fire fades — the work remains" />
