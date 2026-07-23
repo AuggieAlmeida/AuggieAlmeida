@@ -127,6 +127,7 @@ CURRENT QUEST
 | **Make** | Frontend Developer | 2024 | 2024 |
 | **Persys** | Fullstack Developer | 2022 | 2024 |
 | **Sintel** | Technical Support | 2021 | 2022 |
+| **Itaú** | BI Intern | 2020 | 2021 |
 
 ### Grand archives
 
