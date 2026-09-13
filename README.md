@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/augustobalmeida/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-C8A832?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" />
   </a>
-  <a href="https://auggiealmeida.vercel.app/">
+  <a href="https://augustoalmeidadev.com.br/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-E8DCC8?style=for-the-badge&logo=vercel&logoColor=0D0D0D" />
   </a>
   <a href="mailto:augustob.almeida12@gmail.com">
